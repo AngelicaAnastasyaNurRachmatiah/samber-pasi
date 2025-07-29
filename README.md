@@ -1,5 +1,5 @@
 # samber-pasi
-Profil Website Kampung Samber Pasi, Biak Numfor - Papua
+Profile Website Kampung Samber Pasi, Distrik Aimando, Biak Numfor - Papua
 
-# Link Preofile Web Kampung
+# Link Profile Web Kampung
 https://angelicaanastasyanurrachmatiah.github.io/samber-pasi/
